@@ -7,7 +7,7 @@ There are a few steps to go through to complete this recipe, but overall it shou
 
 <img src="https://www.siftandsimmer.com/wp-content/uploads/2022/04/spam-musubi-featured.jpg" alt="" width=650 height=450>
 
-![Nutritional Facts](/3695/recipe%20assignment/nutrition.PNG)
+![Nutritional Facts](nutrition.PNG)
 
 ---
 
