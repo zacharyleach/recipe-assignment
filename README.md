@@ -72,7 +72,7 @@ After this, take the can that the spam came from and clean it out. Once clean, b
 Now, you can begin shaping the Musubi. Wet your hands before grabbing about a handful of rice, shaping it into a cylindrical shape about the same size as the egg and spam slices. The short grain rice should stick together without too much issue, and as long as you keep your hands wet, it should avoid sticking to your fingers. Once your rice is shaped, sprinkle some furikake on top, and if you'd like, put a dollop of sriracha in the middle. Then, put a slice of egg and a slice of spam on top. From here, all you have to do is cut out a 1-inch thick slice of nori and wrap it around the shape, and you'll have completed your spam musubi. Repeat this shaping process for all remaining rice, egg and spam.
 
 ---
-### Eating and Storing
+## Eating and Storing
 ---
 With the Musubi now complete, you can get right down to eating it. Spam Musubi can be eaten hot or cold, and can be safely stored in the fridge for about two to three days. 
 
