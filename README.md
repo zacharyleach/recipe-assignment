@@ -12,7 +12,6 @@ There are a few steps to go through to complete this recipe, but overall it shou
 ---
 
 ## Ingredients
----
 * Soy Sauce
 * Rice Vinegar
 * Brown Sugar (or mirin!)
@@ -31,7 +30,6 @@ There are a few steps to go through to complete this recipe, but overall it shou
 * Granulated Sugar
 ---
 ## How To Make
----
 
 ### 1. **Cook the rice**:
 First, you need to wash your rice. This will remove If you have a lot of the excess starch on the surface of the rice, letting it stick together easier without getting all gummy after cooking. Place about two cups of rice in a wire-mesh strainer and continue to wash until the water coming from it is clear, roughly after five or six washes.
@@ -73,7 +71,6 @@ Now, you can begin shaping the Musubi. Wet your hands before grabbing about a ha
 
 ---
 ## Eating and Storing
----
 With the Musubi now complete, you can get right down to eating it. Spam Musubi can be eaten hot or cold, and can be safely stored in the fridge for about two to three days. 
 
 Enjoy!
