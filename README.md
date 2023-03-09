@@ -26,8 +26,8 @@ There are a few steps to go through to complete this recipe, but overall it shou
 * Salt
 * Pepper
 * Seaweed Nori
+* Granulated sugar
 * Short-grain rice
-* Granulated Sugar
 
 ---
 ## How To Make
